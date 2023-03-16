@@ -18,7 +18,7 @@
   export default {
     data() {
       return {
-        user: { //用户信息
+        user: { //用户信息  lets change something
           userName: null,
           userId: null
         }
